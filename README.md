@@ -8,7 +8,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h3 align="center">💻 Full Stack Developer | SENA 🇨🇴</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <!-- SOCIALS -->
 <div align="center">
