@@ -96,4 +96,4 @@
 
 ## ✨ Frase final
 
-💻 *“El software no solo se programa, se diseña para resolver problemas reales.”*
+💻 *“Si puede imaginarlo puedes programarlo.”*
