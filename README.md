@@ -1,67 +1,99 @@
+<!-- BANNER -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Steeven Sebastian %20Pedeaza Martinez&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-###
-
+<!-- GIF -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<h3 align="center">💻 Full Stack Developer | SENA 🇨🇴</h3>
 
+<!-- SOCIALS -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
-###
+<!-- VISITORS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=0e75b6"/>
+</div>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 👋 Sobre mí
 
-<h3 align="left">👩‍💻  About Me</h3>
+🎓 Desarrollador **Full Stack** formado en el **SENA**  
+🚀 Inicié como **Técnico en Programación de Software**, realicé **7 meses de prácticas**, y continué la **cadena de formación** hasta el **Tecnólogo en Análisis y Desarrollo de Software**.
 
-###
+💡 Me apasiona crear **aplicaciones web modernas**, **APIs**, sistemas funcionales y soluciones reales con tecnología.
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 🧠 Formación & Experiencia
 
-<h3 align="left">🛠 Language and tools</h3>
+✅ Técnico en Programación de Software – SENA  
+✅ 7 meses de prácticas empresariales  
+✅ Tecnólogo en Análisis y Desarrollo de Software – SENA  
+🚀 Próximo a iniciar **prácticas del tecnólogo**
 
-###
+---
 
+## 🛠️ Tecnologías que uso
+
+### 🔹 Lenguajes
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=js,php,java,cpp" />
 </div>
 
-###
+### 🔹 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🔹 Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</div>
 
-###
+### 🔹 Bases de datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</div>
+
+### 🔹 Mobile
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <span>⚡ React Native</span>
+</div>
+
+---
+
+## 🚀 En qué estoy trabajando actualmente
+
+🔹 Aplicaciones Full Stack  
+🔹 APIs REST  
+🔹 MongoDB & MySQL  
+🔹 React & React Native  
+🔹 Buenas prácticas y calidad de software  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
-###
+---
+
+## ✨ Frase final
+
+💻 *“El software no solo se programa, se diseña para resolver problemas reales.”*
